@@ -33,6 +33,7 @@
             {
                 target = firstNumber - secondNumber;
             }
+            Math.Round(target, 2);
             Console.ForegroundColor = ConsoleColor.Green;
             double userTarget = Convert.ToDouble(Console.ReadLine());
             if(userTarget == target)
