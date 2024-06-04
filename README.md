@@ -1,0 +1,1 @@
+This is a very simple program to test the user's ability to count. It generates two numbers from -499 to 499 and you need to write a correct result of sum or substraction. You need to write a result in formate of "123,45", with coma, not the point!
